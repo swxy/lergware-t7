@@ -1,5 +1,8 @@
 # lergware-t7
 
+- THE PREBUILT DLL IS INCLUDED IN CASE THERE ARE PEOPLE NOT CAPABLE OF FOLLOWING SIMPLE INSTRUCTIONS
+______________________________________________________________________________________________________________
+
 - Project Instructions for dummies 
 ______________________________________________________________________________________________________________
 

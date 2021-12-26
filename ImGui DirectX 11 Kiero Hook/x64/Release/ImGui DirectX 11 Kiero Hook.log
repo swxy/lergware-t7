@@ -1,0 +1,68 @@
+﻿  menu.cpp
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\defs.h(102,1): warning C4005: 'LOBYTE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(206): message : see previous definition of 'LOBYTE'
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\defs.h(103,1): warning C4005: 'LOWORD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(204): message : see previous definition of 'LOWORD'
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\defs.h(105,1): warning C4005: 'HIBYTE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(207): message : see previous definition of 'HIBYTE'
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\defs.h(106,1): warning C4005: 'HIWORD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(205): message : see previous definition of 'HIWORD'
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\menu.cpp(20,24): warning C4838: conversion from 'LONG' to 'float' requires a narrowing conversion
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\menu.cpp(20,24): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\menu.cpp(20,39): warning C4838: conversion from 'LONG' to 'float' requires a narrowing conversion
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\menu.cpp(20,39): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\menu.cpp(26,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\menu.cpp(26,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\menu.cpp(88,24): warning C4838: conversion from 'LONG' to 'float' requires a narrowing conversion
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\menu.cpp(88,24): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\menu.cpp(88,39): warning C4838: conversion from 'LONG' to 'float' requires a narrowing conversion
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\menu.cpp(88,39): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\menu.cpp(92,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\menu.cpp(92,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\menu.cpp(349,39): warning C4129: 'd': unrecognized character escape sequence
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\utils\json\nlohmann\json.hpp(5450,31): warning C4473: 'sprintf_s' : not enough arguments passed for format string
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\utils\json\nlohmann\json.hpp(5450,31): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\utils\json\nlohmann\json.hpp(5450,31): message : the missing variadic argument 1 is required by format string '%s'
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\utils\json\nlohmann\json.hpp(10244): message : see reference to function template instantiation 'bool nlohmann::detail::json_sax_dom_parser<BasicJsonType>::parse_error<nlohmann::detail::parse_error>(size_t,const std::string &,const Exception &)' being compiled
+          with
+          [
+              BasicJsonType=nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>,
+              Exception=nlohmann::detail::parse_error
+          ]
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\utils\json\nlohmann\json.hpp(10241): message : see reference to function template instantiation 'bool nlohmann::detail::json_sax_dom_parser<BasicJsonType>::parse_error<nlohmann::detail::parse_error>(size_t,const std::string &,const Exception &)' being compiled
+          with
+          [
+              BasicJsonType=nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>,
+              Exception=nlohmann::detail::parse_error
+          ]
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\utils\json\nlohmann\json.hpp(10202): message : while compiling class template member function 'void nlohmann::detail::parser<nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>,nlohmann::detail::iterator_input_adapter<const char *>>::parse(const bool,BasicJsonType &)'
+          with
+          [
+              BasicJsonType=nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>
+          ]
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\utils\json\nlohmann\json.hpp(23186): message : see reference to function template instantiation 'void nlohmann::detail::parser<nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>,nlohmann::detail::iterator_input_adapter<const char *>>::parse(const bool,BasicJsonType &)' being compiled
+          with
+          [
+              BasicJsonType=nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>
+          ]
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\utils\json\nlohmann\json.hpp(23184): message : see reference to class template instantiation 'nlohmann::detail::parser<nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>,nlohmann::detail::iterator_input_adapter<const char *>>' being compiled
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\utils\json\nlohmann\json.hpp(25260): message : see reference to function template instantiation 'nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>> nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>::parse<const char*>(IteratorType,IteratorType,const std::function<bool (int,nlohmann::detail::parse_event_t,nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>> &)>,const bool,const bool)' being compiled
+          with
+          [
+              IteratorType=const char *
+          ]
+C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\ImGui DirectX 11 Kiero Hook\utils\json\nlohmann\json.hpp(25260): message : see reference to function template instantiation 'nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>> nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>>::parse<const char*>(IteratorType,IteratorType,const std::function<bool (int,nlohmann::detail::parse_event_t,nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer,std::vector<uint8_t,std::allocator<uint8_t>>> &)>,const bool,const bool)' being compiled
+          with
+          [
+              IteratorType=const char *
+          ]
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  2 of 3971 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    32 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+detours.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(detours.obj)' or at 'C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\x64\Release\detours.pdb'; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(disasm.obj)' or at 'C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\x64\Release\detours.pdb'; linking object as if no debug info
+detours.lib(modules.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(modules.obj)' or at 'C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\x64\Release\detours.pdb'; linking object as if no debug info
+  ImGui DirectX 11 Kiero Hook.vcxproj -> C:\Users\rroth\Desktop\LERG-WARE COLLECTION\LERG-WARE BO3 MASTER\LERG-WARE_Master\x64\Release\LERG-MASTER-BO3.dll

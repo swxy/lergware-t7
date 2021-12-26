@@ -1,6 +1,6 @@
 # lergware-t7
 
-- steps for dummies 
+- Project Instructions for dummies 
 ______________________________________________________________________________________________________________
 
 open the solution in microsoft visual studio.

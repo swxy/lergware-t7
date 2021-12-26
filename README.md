@@ -6,6 +6,8 @@ ________________________________________________________________________________
 open the solution in microsoft visual studio.
 then change it from debug to release.
 Now click build.
+
+.dll file should be located in "lergware-t7-main\x64\Release\LERG-MASTER-BO3.dll"
 ______________________________________________________________________________________________________________
 
 
